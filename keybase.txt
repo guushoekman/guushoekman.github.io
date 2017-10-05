@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/guushoekman
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://guushoekman.com
+  * I am guushoekman (https://keybase.io/guushoekman) on keybase.
+  * I have a public key ASBDl3uDiJNOrkWeTprKtr13IgMergHkh6KlIsvS9MDMngo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012043977b8388934eae459e4e9acab6bd7722031eae01e487a2a522cbd2f4c0cc9e0a",
+      "host": "keybase.io",
+      "kid": "012043977b8388934eae459e4e9acab6bd7722031eae01e487a2a522cbd2f4c0cc9e0a",
+      "uid": "76acab05cfd2713ceff81d1d63617919",
+      "username": "guushoekman"
+    },
+    "merkle_root": {
+      "ctime": 1507191189,
+      "hash": "26adcbe295445f1ca8b8c5a7f479ecba1dcf14f00c4a9b636e432ddf1a2ad7cb85ce7e1331be0e6fc92ae67f087030ba1c31302a6284277b54deb67b9fd02c1d",
+      "hash_meta": "9ceaa8f2a8ed14bdc361e2f93240e67ac19881842806a6c434a9a9154db02f67",
+      "seqno": 1508689
+    },
+    "service": {
+      "hostname": "guushoekman.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.33"
+  },
+  "ctime": 1507191199,
+  "expire_in": 504576000,
+  "prev": "ec29c5798ae2dad4594aeb33fd990845991038e4d14b0f78ca6d613b7a915f3e",
+  "seqno": 5,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgQ5d7g4iTTq5Fnk6ayra9dyIDHq4B5IeipSLL0vTAzJ4Kp3BheWxvYWTFA0p7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwNDM5NzdiODM4ODkzNGVhZTQ1OWU0ZTlhY2FiNmJkNzcyMjAzMWVhZTAxZTQ4N2EyYTUyMmNiZDJmNGMwY2M5ZTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNDM5NzdiODM4ODkzNGVhZTQ1OWU0ZTlhY2FiNmJkNzcyMjAzMWVhZTAxZTQ4N2EyYTUyMmNiZDJmNGMwY2M5ZTBhIiwidWlkIjoiNzZhY2FiMDVjZmQyNzEzY2VmZjgxZDFkNjM2MTc5MTkiLCJ1c2VybmFtZSI6Imd1dXNob2VrbWFuIn0sIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNTA3MTkxMTg5LCJoYXNoIjoiMjZhZGNiZTI5NTQ0NWYxY2E4YjhjNWE3ZjQ3OWVjYmExZGNmMTRmMDBjNGE5YjYzNmU0MzJkZGYxYTJhZDdjYjg1Y2U3ZTEzMzFiZTBlNmZjOTJhZTY3ZjA4NzAzMGJhMWMzMTMwMmE2Mjg0Mjc3YjU0ZGViNjdiOWZkMDJjMWQiLCJoYXNoX21ldGEiOiI5Y2VhYThmMmE4ZWQxNGJkYzM2MWUyZjkzMjQwZTY3YWMxOTg4MTg0MjgwNmE2YzQzNGE5YTkxNTRkYjAyZjY3Iiwic2Vxbm8iOjE1MDg2ODl9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoiZ3V1c2hvZWttYW4uY29tIiwicHJvdG9jb2wiOiJodHRwczoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMzMifSwiY3RpbWUiOjE1MDcxOTExOTksImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJwcmV2IjoiZWMyOWM1Nzk4YWUyZGFkNDU5NGFlYjMzZmQ5OTA4NDU5OTEwMzhlNGQxNGIwZjc4Y2E2ZDYxM2I3YTkxNWYzZSIsInNlcW5vIjo1LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQDoVDQMLIyU7rVvuS2q4FlgeieblV2xJIMBRaiMjC/kY1IOgEp/NDXdJQ2fYyH+h+Aud1Ld08vxr3CssxPqOgwKoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCC3JN0S1cbecUKqHk2p3CUZ6mYDhZEpkhM8eYLApccmOKN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/guushoekman
+
+==================================================================
